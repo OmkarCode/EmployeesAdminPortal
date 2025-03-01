@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF4215A-6D7E-4A1F-8401-FEC41F596EDA}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\omkar chauhan\\source\\repos\\employeeadminportal\\employeeadminportal\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF4215A-6D7E-4A1F-8401-FEC41F596EDA}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF4215A-6D7E-4A1F-8401-FEC41F596EDA}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\omkar chauhan\\source\\repos\\employeeadminportal\\employeeadminportal\\models\\addemployeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF4215A-6D7E-4A1F-8401-FEC41F596EDA}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\addemployeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF4215A-6D7E-4A1F-8401-FEC41F596EDA}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\omkar chauhan\\source\\repos\\employeeadminportal\\employeeadminportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDF4215A-6D7E-4A1F-8401-FEC41F596EDA}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF4215A-6D7E-4A1F-8401-FEC41F596EDA}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\omkar chauhan\\source\\repos\\employeeadminportal\\employeeadminportal\\employeeadminportal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FDF4215A-6D7E-4A1F-8401-FEC41F596EDA}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\employeeadminportal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF4215A-6D7E-4A1F-8401-FEC41F596EDA}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\omkar chauhan\\source\\repos\\employeeadminportal\\employeeadminportal\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF4215A-6D7E-4A1F-8401-FEC41F596EDA}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF4215A-6D7E-4A1F-8401-FEC41F596EDA}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\omkar chauhan\\source\\repos\\employeeadminportal\\employeeadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF4215A-6D7E-4A1F-8401-FEC41F596EDA}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF4215A-6D7E-4A1F-8401-FEC41F596EDA}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\omkar chauhan\\source\\repos\\employeeadminportal\\employeeadminportal\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF4215A-6D7E-4A1F-8401-FEC41F596EDA}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF4215A-6D7E-4A1F-8401-FEC41F596EDA}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\omkar chauhan\\source\\repos\\employeeadminportal\\employeeadminportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF4215A-6D7E-4A1F-8401-FEC41F596EDA}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF4215A-6D7E-4A1F-8401-FEC41F596EDA}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\omkar chauhan\\source\\repos\\employeeadminportal\\employeeadminportal\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF4215A-6D7E-4A1F-8401-FEC41F596EDA}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF4215A-6D7E-4A1F-8401-FEC41F596EDA}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\omkar chauhan\\source\\repos\\employeeadminportal\\employeeadminportal\\models\\updateemployeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF4215A-6D7E-4A1F-8401-FEC41F596EDA}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\updateemployeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:16:09.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:15:54.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEmployeeDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\AddEmployeeDetails.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\AddEmployeeDetails.cs",
+              "ToolTip": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\AddEmployeeDetails.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\AddEmployeeDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:15:51.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\appsettings.json",
+              "ToolTip": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\appsettings.json",
+              "RelativeToolTip": "EmployeeAdminPortal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-20T05:59:26.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Program.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T05:52:22.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\WeatherForecast.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T05:51:10.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeAdminPortal.http",
+              "DocumentMoniker": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.http",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\EmployeeAdminPortal.http",
+              "ToolTip": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.http",
+              "RelativeToolTip": "EmployeeAdminPortal\\EmployeeAdminPortal.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-20T06:15:42.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T05:44:14.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateEmployeeDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\UpdateEmployeeDetails.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\UpdateEmployeeDetails.cs",
+              "ToolTip": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\UpdateEmployeeDetails.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\UpdateEmployeeDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T05:38:32.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Omkar Chauhan\\source\\repos\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T05:26:49.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
